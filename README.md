@@ -1,9 +1,4 @@
 ## atxserver2
-移动设备管理平台(支持Android和iOS), 欢迎加入QQ群交流
-
-![image-20190619180012756](docs/qq.png)
-
-![img](static/favicon-dark.png)
 
 ## 部署方案1 （docker-compose方式）
 代码Clone到本地
